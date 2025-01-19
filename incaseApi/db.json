@@ -2,8 +2,8 @@
     "checkApi": "",
     "theme": "dark",
     "body": {
-        "bodyImg": "../img/bg2.png",
-        "webIcon": "../img/webIcon.png",
+        "bodyImg": "https://github.com/greenCinemaTV/MyBio/blob/main/img/bg2.png?raw=true",
+        "webIcon": "https://github.com/greenCinemaTV/MyBio/blob/main/img/webIcon.png?raw=true",
         "newTitle": "Bio | GreenCinema TV"
     },
     "menu": {
@@ -15,9 +15,9 @@
         "header": {
             "title": "GreenCinema TV",
             "subtitle": "Film analyzer | Content Creator | Editor",
-            "bacgroundImg": "../img/bg2.png",
+            "bacgroundImg": "https://github.com/greenCinemaTV/MyBio/blob/main/img/bg2.png?raw=true",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnm5_PjWzgCrryoHOjYpeRQy3paLZLFktTQ&s",
-            "description": "Hi, I'm a passionate developer and content creator. Follow me on my journey across different platforms."
+            "description": "Hi, I’m a passionate content creator exploring the world of movies and animation. Follow me for in-depth analyses, iconic scene breakdowns, and creative insights across your favorite platforms!"
         },
         "socialLinks": {
             "title": "Find Me On:",
@@ -26,7 +26,7 @@
                     "id": 1,
                     "name": "Instagram",
                     "listNumber": 3,
-                    "url": "https://instagram.com/yourprofile",
+                    "url": "https://www.instagram.com/greencinematv/",
                     "icon": "fab fa-instagram",
                     "actions": true
                 },
@@ -34,7 +34,7 @@
                     "id": 2,
                     "listNumber": 4,
                     "name": "TikTok",
-                    "url": "https://tiktok.com/@yourprofile",
+                    "url": "https://tiktok.com/@greencinematv",
                     "icon": "fab fa-tiktok",
                     "actions": true
                 },
@@ -44,13 +44,13 @@
                     "name": "Twitter",
                     "url": "https://twitter.com/yourprofile",
                     "icon": "fab fa-twitter",
-                    "actions": true
+                    "actions": false
                 },
                 {
                     "id": 4,
                     "listNumber": 1,
                     "name": "YouTube",
-                    "url": "https://youtube.com/yourprofile",
+                    "url": "https://youtube.com/UCVQbS1SnObGNL6irTlqf-nQ",
                     "icon": "fab fa-youtube",
                     "actions": true
                 },
@@ -60,7 +60,7 @@
                     "name": "Discord",
                     "url": "https://discord.com/yourprofile",
                     "icon": "fab fa-discord",
-                    "actions": true
+                    "actions": false
                 },
                 {
                     "id": 6,
@@ -68,7 +68,7 @@
                     "name": "LinkedIn",
                     "url": "https://linkedin.com/yourprofile",
                     "icon": "fab fa-linkedin",
-                    "actions": true
+                    "actions": false
                 },
                 {
                     "id": 7,
@@ -76,7 +76,7 @@
                     "name": "Twitch",
                     "url": "https://twitch.com/yourprofile",
                     "icon": "fab fa-twitch",
-                    "actions": true
+                    "actions": false
                 }
             ]
         },
@@ -119,7 +119,7 @@
         "showonPage": true
     },
     "footer": {
-        "description": "Copyright @2024 GreenCinema. All Rights Reserved.",
+        "description": "Copyright @2025 GreenCinema. All Rights Reserved.",
         "showonPage": true
     }
 }
