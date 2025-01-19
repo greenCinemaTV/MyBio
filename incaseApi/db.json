@@ -1,0 +1,125 @@
+{
+    "checkApi": "",
+    "theme": "dark",
+    "body": {
+        "bodyImg": "../img/bg2.png",
+        "webIcon": "../img/webIcon.png",
+        "newTitle": "Bio | GreenCinema TV"
+    },
+    "menu": {
+        "title": "GreenCinemaTV",
+        "Imgsrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnm5_PjWzgCrryoHOjYpeRQy3paLZLFktTQ&s",
+        "hrefSrc": "https://www.youtube.com/@GreenCinemaTV"
+    },
+    "main": {
+        "header": {
+            "title": "GreenCinema TV",
+            "subtitle": "Film analyzer | Content Creator | Editor",
+            "bacgroundImg": "../img/bg2.png",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnm5_PjWzgCrryoHOjYpeRQy3paLZLFktTQ&s",
+            "description": "Hi, I'm a passionate developer and content creator. Follow me on my journey across different platforms."
+        },
+        "socialLinks": {
+            "title": "Find Me On:",
+            "links": [
+                {
+                    "id": 1,
+                    "name": "Instagram",
+                    "listNumber": 3,
+                    "url": "https://instagram.com/yourprofile",
+                    "icon": "fab fa-instagram",
+                    "actions": true
+                },
+                {
+                    "id": 2,
+                    "listNumber": 4,
+                    "name": "TikTok",
+                    "url": "https://tiktok.com/@yourprofile",
+                    "icon": "fab fa-tiktok",
+                    "actions": true
+                },
+                {
+                    "id": 3,
+                    "listNumber": 5,
+                    "name": "Twitter",
+                    "url": "https://twitter.com/yourprofile",
+                    "icon": "fab fa-twitter",
+                    "actions": true
+                },
+                {
+                    "id": 4,
+                    "listNumber": 1,
+                    "name": "YouTube",
+                    "url": "https://youtube.com/yourprofile",
+                    "icon": "fab fa-youtube",
+                    "actions": true
+                },
+                {
+                    "id": 5,
+                    "listNumber": 6,
+                    "name": "Discord",
+                    "url": "https://discord.com/yourprofile",
+                    "icon": "fab fa-discord",
+                    "actions": true
+                },
+                {
+                    "id": 6,
+                    "listNumber": 2,
+                    "name": "LinkedIn",
+                    "url": "https://linkedin.com/yourprofile",
+                    "icon": "fab fa-linkedin",
+                    "actions": true
+                },
+                {
+                    "id": 7,
+                    "listNumber": 7,
+                    "name": "Twitch",
+                    "url": "https://twitch.com/yourprofile",
+                    "icon": "fab fa-twitch",
+                    "actions": true
+                }
+            ]
+        },
+        "showonPage": true
+    },
+    "about": {
+        "title": "About Me!!",
+        "description": "Welcome to GreenCinema TV! At GreenCinema, we're passionate about exploring the most captivating moments in anime, TV shows, and movies. Whether it's the intense battles of the anime world or the intricate plots of epic series like Game of Thrones and House of the Dragon, we bring you reactions, insights, and analysis to enrich your viewing experience. Join us as we dive deep into the characters, stories, and emotions that make these visual masterpieces so unforgettable. Stay tuned for fresh content and let’s keep the conversation alive in the world of entertainment!",
+        "showonPage": true
+    },
+    "content": {
+        "title": "My Top Content",
+        "videos": {
+            "orderBy": "date",
+            "count": 6,
+            "channelId": "UCVQbS1SnObGNL6irTlqf-nQ",
+            "api_key": "AIzaSyBAeo8xo5wMYfKPAMXTDi22gMd2DcoRWj4"
+        },
+        "showonPage": true
+    },
+    "contact": {
+        "title": "Contact Me",
+        "description": "If you have any questions or comments, feel free to reach out. I'm always happy to hear from you!",
+        "contactInfo": [
+            {
+                "id": 1,
+                "name": "Email",
+                "url": "mailto:usefulplace2024@gmail.com",
+                "icon": "fas fa-envelope",
+                "actions": true
+            },
+            {
+                "id": 2,
+                "name": "Number",
+                "url": "tel:+3333333333",
+                "icon": "fas fa-phone",
+                "actions": false
+            }
+        ],
+        "showonPage": true
+    },
+    "footer": {
+        "description": "Copyright @2024 GreenCinema. All Rights Reserved.",
+        "showonPage": true
+    }
+}

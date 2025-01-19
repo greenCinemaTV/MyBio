@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link id="favicon" rel="icon" href="imgSrc" type="image/x-icon">
+
+  <title>Bio</title>
+  <link rel="stylesheet" href="./style/index.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+  <header class="main-header" style="top: -100px;">
+    <div class="header-container">
+      <!-- Menu Button Part -->
+      <div  class="menu-btn" id="menu-btn">
+        <i id="menu_btn" class="fas fa-bars"></i> 
+      </div>
+      
+      <!-- Profile Picture and Title -->
+       <a class="header_src" target="_blank" href="https://www.youtube.com/@GreenCinemaTV" style="text-decoration: none;">
+        <div class="header-profile">
+          <div><img src="https://yt3.googleusercontent.com/bxduVtFUtzKPay-rw86zkFeBi5LKPnROawW3NsFTsg1nrPYbGs42DpPJwWs9vg80-25pPuqcyw=s900-c-k-c0x00ffffff-no-rj" alt="Profile Picture" class="header-pic"></div>
+          <h1 class="header-title"></h1>
+        </div>
+       </a>
+     
+    </div>
+
+    <!-- Menu Dropdown -->
+    <div class="menu-content" id="menu-content">
+      <ul>
+        <li class="main" data-target="#main"><a >Main</a></li>
+        <li class="about" data-target="#about"><a >About</a></li>
+        <li class="content" data-target="#content"><a >My Content</a></li>
+        <li class="contact" data-target="#contact"><a >Contact</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <!-- Loading Spinner -->
+  <div id="loading-screen">
+    <div class="spinner"></div>
+  </div>
+
+
+  <!-- <button id="theme-toggle" onclick="toggleTheme()" style="padding: 10px 20px; font-size: 1rem; margin: 20px; cursor: pointer;">
+    Toggle Theme
+</button>   -->
+  <div class="container" id="main"></div>
+  <div class="container" id="about"></div>
+  
+  <div class="container" id="content">
+    <section class="my_content">
+      <h2></h2>
+      <div class="videos">
+        <!-- Content will be dynamically inserted here -->
+      </div>
+    </section>
+  </div>
+  
+  <div class="container" id="contact">
+    <section class="contact_info">
+      <h2></h2>
+      <p></p>
+      <ul class="contact_item" >
+        <!-- Contact info will be dynamically inserted here -->
+      </ul>
+    </section>
+  </div>
+
+  <footer id="footer">
+    <p>&copy; 2022 Your Name | All Rights Reserved</p>
+  </footer>
+  
+
+  <script src="./js/index.js"></script>
+</body>
+</html>
